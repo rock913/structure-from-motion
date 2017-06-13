@@ -25,7 +25,7 @@ Example of corresponding points estimated from two images:<br />
 Constructed sparse 3D point cloud<br />
 <img src="./img/reconstruction.gif" width="450"><br />
 
-## To be continue
+## To be continued
 1. Dense 3D point cloud reconstruction (example:http://www.di.ens.fr/pmvs/)
 
 ## References
