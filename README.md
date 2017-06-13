@@ -18,11 +18,11 @@ Spare 3D point cloud is produced from multiple images, the General steps of this
 3. Make a new project, add the property sheet and the code in the source folder
 
 ## example
-The input 8 images:\n
+The input 8 images:<br />
 <img src="./img/orignImg.gif" width="450">
-Example of corresponding points estimated from two images:\n
+Example of corresponding points estimated from two images:<br />
 <img src="./img/matching.png" width="450">
-Constructed sparse 3D point cloud\n
+Constructed sparse 3D point cloud<br />
 <img src="./img/reconstruction.gif" width="450">
 
 ## To be continue
