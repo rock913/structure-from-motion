@@ -1,14 +1,14 @@
-# Using Deep Q-Network to Learn How To Play Flappy Bird
+# structure-from-motion
 
-<img src="./img/reconstruction.gif" width="250">
+<img src="./img/reconstruction.gif" width="450">
 
 ## Overview
 
 
 ## Installation Dependencies:
 
-<img src="./img/orignImg.gif" width="250">
-<img src="./img/matching.png" width="250">
+<img src="./img/orignImg.gif" width="450">
+<img src="./img/matching.png" width="450">
 
 
 ## References
