@@ -19,11 +19,11 @@ Spare 3D point cloud is produced from multiple images, the General steps of this
 
 ## example
 The input 8 images:<br />
-<img src="./img/orignImg.gif" width="450">
+<img src="./img/orignImg.gif" width="450"><br />
 Example of corresponding points estimated from two images:<br />
-<img src="./img/matching.png" width="450">
+<img src="./img/matching.png" width="450"><br />
 Constructed sparse 3D point cloud<br />
-<img src="./img/reconstruction.gif" width="450">
+<img src="./img/reconstruction.gif" width="450"><br />
 
 ## To be continue
 1. Dense 3D point cloud reconstruction (example:http://www.di.ens.fr/pmvs/)
